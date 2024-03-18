@@ -1,20 +1,8 @@
-[![AWESOME CHEATSHEETS LOGO](_design/cover_github@2x.png)](https://lecoupa.github.io/awesome-cheatsheets/)
+## cheati-sheets
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/LICENSE)
+## Table of Contents
 
-**WEBSITE DIRECTORY**: [Available here](https://lecoupa.github.io/awesome-cheatsheets/).
-
-> 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-
-## 🤔 Why Awesome-Cheatsheets?
-
-I usually make a cheat sheet when I want to improve my skills in a programming language, a framework or a development tool. [I started doing these kinds of things a long time ago on Gist](https://gist.github.com/LeCoupa). To better keep track of the history and to let people contribute, I re-organized all of them into this single repository. Most of the content is coming from official documentation and some books I have read.
-
-Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
-
-## 📚 Table of Contents
-
-### 📃 Languages
+### Languages
 
 <details>
 <summary>View cheatsheets</summary>
@@ -38,7 +26,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 </details>
 
-### 📦 Backend
+### Backend
 
 <details>
 <summary>View cheatsheets</summary>
@@ -61,7 +49,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Sails.js](backend/sails.js)
   </details>
 
-### 🌐 Frontend
+### Frontend
 
 <details>
 <summary>View cheatsheets</summary>
@@ -81,7 +69,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [AngularJS](frontend/angularjs.js)
   </details>
 
-### 🗃️ Databases
+### Databases
 
 <details>
 <summary>View cheatsheets</summary>
@@ -95,7 +83,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Redis](databases/redis.sh)
   </details>
 
-### 🔧 Tools
+### Tools
 
 <details>
 <summary>View cheatsheets</summary>
@@ -127,12 +115,3 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Firebase CLI](tools/firebase_cli.md)
   </details>
 
-## 🙌🏼 How to Contribute?
-
-You are more than welcome to contribute and build your own cheat sheet for your favorite programming language, framework or development tool. Just submit changes via pull request and I will review them before merging.
-
-## 👩‍💻👨‍💻 Our valuable Contributors
-
-<p align="center"><a href="https://github.com/LeCoupa/awesome-cheatsheets/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
-</a></p>
