@@ -1,4 +1,7 @@
-## cheati-sheets
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/LICENSE)
+
+## cheat-sheets
 
 ## Table of Contents
 
