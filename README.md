@@ -1,6 +1,4 @@
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
-
 ## cheat-sheets
 
 ## Table of Contents
